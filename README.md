@@ -1,7 +1,5 @@
 ## Hi there 👋
 🌱 I’m currently learning
-![Snow Ball](https://img.shields.io/badge/dynamic/json?color=yellow&label=Snow%20Ball&query=%24.count&url=https%3A%2F%2Fapi.example.com%2Fcount
-)
 
 
 
