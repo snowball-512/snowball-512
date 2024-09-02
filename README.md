@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning
+![Snow Ball](https://img.shields.io/badge/Website%20Traffic-1000%20views-brightgreen)
 
 
 
