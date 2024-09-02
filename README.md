@@ -1,8 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning
-![Snow Ball](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=snowball-512&count_bg=%23FFFFFF&title_bg=%23FFC0CB&icon=&icon_color=%23E7E7E7&title=Snow%20Ball&edge_flat=false
-
-)
+![Snow Ball](https://img.shields.io/badge/Snow_Ball-1-pink)
 
 
 
