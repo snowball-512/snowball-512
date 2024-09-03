@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Snow Ball 👋
 🌱 I’m currently learning
 
 
